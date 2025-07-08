@@ -7,7 +7,6 @@
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built With](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -25,11 +24,12 @@ A clean, responsive Markdown Previewer built using:
 
 ### Screenshot
 
-
+![](markdown-Previewer.png)
 
 ### Links
 
-- [Live Site URL](#) 
+- [Live Site URL](https://shrikanth-dev.github.io/Markdown-Previewer/)
+- [solution URL](https://github.com/shrikanth-dev/Markdown-Previewer)
 
 ### Built With
 
@@ -37,8 +37,5 @@ A clean, responsive Markdown Previewer built using:
 - CSS (Bootstrap 5)
 - JavaScript
 - Marked.js
-
-## Author
-
 
 
